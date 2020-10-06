@@ -1,0 +1,7 @@
+User agent: *
+Disallow: /node_moddules/
+Disallow: /upload/
+Disallow: /PHPMailer-master/
+Disallow: /fetch/
+Disallow: /delete/
+Disallow: /ad_views/

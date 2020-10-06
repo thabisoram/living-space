@@ -1,0 +1,15 @@
+{
+  "name": "livingspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "adformvalidation_a2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "baguettebox.js": "^1.11.0",
+    "bootstrap": "^4.4.1"
+  }
+}
